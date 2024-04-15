@@ -1,1 +1,2 @@
 # Next
+global owner
